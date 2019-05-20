@@ -1,3 +1,3 @@
-# Images In ReadMes
+# Preview
 
-![](rock.png)
+![](demo.gif)
